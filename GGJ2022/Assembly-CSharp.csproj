@@ -54,6 +54,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\MapGenerator.cs" />
+    <Compile Include="Assets\Scripts\VectorExtensions.cs" />
+    <Compile Include="Assets\FitBoxCollider\Script\Engine\BoxColliderFit.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
