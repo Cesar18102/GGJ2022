@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8796018806797700553}
   - component: {fileID: 6962048830442101166}
   - component: {fileID: 1631839542331941010}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CasetaTecho
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   - component: {fileID: 7278319515889851606}
   - component: {fileID: 1090456144348411498}
   - component: {fileID: 5323380554654101468}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Caseta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -173,7 +173,7 @@ GameObject:
   - component: {fileID: 8191163147989177512}
   - component: {fileID: 5099358911662879732}
   - component: {fileID: 5369103182936883042}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Caja.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -254,7 +254,7 @@ GameObject:
   - component: {fileID: 6726841194725663280}
   - component: {fileID: 4375422842445036665}
   - component: {fileID: 2979992111006275410}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TablonesL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -335,7 +335,7 @@ GameObject:
   - component: {fileID: 6951676025794245548}
   - component: {fileID: 910780449575761143}
   - component: {fileID: 3823178415301855892}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Noria
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -416,7 +416,7 @@ GameObject:
   - component: {fileID: 622006573949365173}
   - component: {fileID: 2014530385298779006}
   - component: {fileID: 4555191965357771144}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TablonesP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -497,7 +497,7 @@ GameObject:
   - component: {fileID: 2530868442068142440}
   - component: {fileID: 2866311346335773453}
   - component: {fileID: 598857856463522890}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Caja
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -578,7 +578,7 @@ GameObject:
   - component: {fileID: 2007441075101725085}
   - component: {fileID: 2187015547491852231}
   - component: {fileID: 4659912802116174080}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cube.055
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -659,7 +659,7 @@ GameObject:
   - component: {fileID: 5971646244279851526}
   - component: {fileID: 6962072493699272899}
   - component: {fileID: 626942230562834484}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Palo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -740,7 +740,7 @@ GameObject:
   - component: {fileID: 7104441475806680382}
   - component: {fileID: 3085457649529145304}
   - component: {fileID: 6644453642447232607}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Agarraderos
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -821,7 +821,7 @@ GameObject:
   - component: {fileID: 4362931107220371971}
   - component: {fileID: 9146478474798590442}
   - component: {fileID: 7155068124945260103}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TablonesT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -902,7 +902,7 @@ GameObject:
   - component: {fileID: 3871487718496686694}
   - component: {fileID: 3245879025894818001}
   - component: {fileID: 8548270611376625873}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cube.035
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -983,7 +983,7 @@ GameObject:
   - component: {fileID: 5085680426807127623}
   - component: {fileID: 7309605123745716978}
   - component: {fileID: 5185184748029809950}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: "Suspensi\xF3n"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1064,7 +1064,7 @@ GameObject:
   - component: {fileID: 6711633211375192672}
   - component: {fileID: 8893727031027785702}
   - component: {fileID: 3787458255353221945}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ruedas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1145,7 +1145,7 @@ GameObject:
   - component: {fileID: 496188512903289638}
   - component: {fileID: 5624115581266978780}
   - component: {fileID: 7061736458684318959}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Sierra
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1226,7 +1226,7 @@ GameObject:
   - component: {fileID: 4809816917024047549}
   - component: {fileID: 1193882186966760366}
   - component: {fileID: 6389263560499648974}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: PilaresCasetyaCarreta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1306,7 +1306,8 @@ GameObject:
   m_Component:
   - component: {fileID: 6632251509248989438}
   - component: {fileID: 6287497008121233978}
-  m_Layer: 0
+  - component: {fileID: 450075973388613621}
+  m_Layer: 8
   m_Name: Cantera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1322,7 +1323,7 @@ Transform:
   m_GameObject: {fileID: 6287497008121233988}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.09605332, y: 0.10337261, z: 0.110691905}
   m_Children:
   - {fileID: 7104441475806680382}
   - {fileID: 2530868442068142440}
@@ -1360,11 +1361,25 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6287497008121233988}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 62.46531, y: 19.213997, z: 72.272675}
   m_Center: {x: -0.02676773, y: 8.717037, z: 0.062469482}
+--- !u!64 &450075973388613621
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6287497008121233988}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
 --- !u!1 &6374495898247462652
 GameObject:
   m_ObjectHideFlags: 0
@@ -1376,7 +1391,7 @@ GameObject:
   - component: {fileID: 7976742964422167145}
   - component: {fileID: 5973569675914442373}
   - component: {fileID: 4036943269119502656}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TelaCarreta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1457,7 +1472,7 @@ GameObject:
   - component: {fileID: 1630778876003899472}
   - component: {fileID: 5598155059610342259}
   - component: {fileID: 6076658013440655698}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TablonT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1538,7 +1553,7 @@ GameObject:
   - component: {fileID: 5440806048789538178}
   - component: {fileID: 5875604178139728369}
   - component: {fileID: 5688976065081999434}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Caja.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1619,7 +1634,7 @@ GameObject:
   - component: {fileID: 2841407243125536978}
   - component: {fileID: 5174685972812239871}
   - component: {fileID: 7935117388570424305}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cuerdas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1700,7 +1715,7 @@ GameObject:
   - component: {fileID: 556882215564207396}
   - component: {fileID: 1294971216592013136}
   - component: {fileID: 4067699737879988682}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cylinder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1781,7 +1796,7 @@ GameObject:
   - component: {fileID: 5772323006091505092}
   - component: {fileID: 8297011884336222428}
   - component: {fileID: 4317435919273156939}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cube.029
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1862,7 +1877,7 @@ GameObject:
   - component: {fileID: 6541986014214310289}
   - component: {fileID: 2807158560016545749}
   - component: {fileID: 6193539463491065495}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SoportesT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1943,7 +1958,7 @@ GameObject:
   - component: {fileID: 4028078323971319514}
   - component: {fileID: 2142321595905620059}
   - component: {fileID: 324063761528699871}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TelaPiedras
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2024,7 +2039,7 @@ GameObject:
   - component: {fileID: 6718868378634732579}
   - component: {fileID: 8192296051145665487}
   - component: {fileID: 4367704199676275770}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: PilaresCasetaPiedras
   m_TagString: Untagged
   m_Icon: {fileID: 0}

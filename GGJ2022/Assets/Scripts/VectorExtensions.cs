@@ -26,5 +26,10 @@ namespace Assets.Scripts
         {
             return new Bounds(bounds.center, bounds.size.ScaleBy(scale));
         }
+
+        public static Vector3 GetAveragedByYScale(float scaleX, float scaleZ)
+        {
+            return new Vector3(scaleX, (scaleX + scaleZ) / 2, scaleZ);
+        }
     }
 }

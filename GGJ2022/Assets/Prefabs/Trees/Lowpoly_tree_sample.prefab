@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3546685057089722110}
   - component: {fileID: 2876983011742894971}
   - component: {fileID: 4100234688367192023}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tree_lp_11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91,7 +91,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7998089372802378737}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Lowpoly_tree_sample
   m_TagString: Untagged
   m_Icon: {fileID: 0}

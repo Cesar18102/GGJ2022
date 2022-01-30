@@ -673,7 +673,7 @@ GameObject:
   - component: {fileID: 3910634379467172134}
   m_Layer: 0
   m_Name: Volcano
-  m_TagString: Untagged
+  m_TagString: DarkSpawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
